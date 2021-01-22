@@ -2,9 +2,9 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-let first = "Bryan";
-let last = "Roberts";
-let d = new Date();
+const first = "Bryan";
+const last = "Roberts";
+const d = new Date();
 
 ReactDOM.render(
   <div>
